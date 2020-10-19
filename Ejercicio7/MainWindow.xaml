@@ -8,7 +8,8 @@
         Title="TamañoTexto"
         Height="399.876"
         Icon="tamañoTexto.ico"
-        Width="1198.763">
+        Width="1198.763"
+        >
     <Grid>
         <TextBlock Margin="70,57,50,0"
                    FontSize="72"
